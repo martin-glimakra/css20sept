@@ -8,10 +8,9 @@
 
 .fargrod {
     background-color: red;
-    /* margin: 100px; */
 }
 
-.bla {
+.bla-och-margin {
     background-color: blue;
     margin: 100px;
     margin-left: 200px;
