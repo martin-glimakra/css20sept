@@ -4,6 +4,15 @@
     background-color: green;
 }
 
+/* exempelkommentar */
+
 .fargrod {
     background-color: red;
+    /* margin: 100px; */
+}
+
+.bla {
+    background-color: blue;
+    margin: 100px;
+    margin-left: 200px;
 }
